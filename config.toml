@@ -1,6 +1,7 @@
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
+theme = "ananke"
 title = "DevOps Blog"
 canonifyurls  = true
 

@@ -1,5 +1,5 @@
 public/
 resources
-themes
 
 .idea
+.hugo_build.lock
